@@ -5,6 +5,6 @@ I discovered the Flint Water Crisis back in 2013.  Specifically, my service dog 
 
 By the time service dog Lady moved to Flint, Michigan this service dog's ability to detect good water was formidable for it had crossed the Rocky Mountains three times and vacationed in the Carpathian Alps in Europe with me by then.
 
-More information about Water Quality Specialist: 
+More information: 
 
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.md)
