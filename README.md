@@ -5,7 +5,7 @@ I discovered the Flint Water Crisis back in late autumn 2013.  Specifically, my 
 
 By the time service dog Lady moved to Flint, Michigan this service dog's ability to detect good water was formidable for it had crossed the Rocky Mountains three times and vacationed in the Carpathian Alps in Europe with me.
 
-On the west coast, when we would go shopping at BevMo! for bottled water, she would point with her nose and use facial mimicry to help me choose the bottled water and she wanted me to get for us to consume.  Surprisingly, imported water scored lower than domestic.
+On the west coast, when we would go shopping at BevMo! for bottled water, she would point with her nose and use facial mimicry to help me choose the bottled water that she wanted me to get for us to consume.  Surprisingly, imported water scored lower than domestic.
 
 More information: 
 
