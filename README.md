@@ -5,4 +5,4 @@ I discovered the Flint Water Crisis in back in 2013.  Specifically, service dog 
 
 More information about Water Quality Specialist: 
 
-[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](WQS.md)
+[serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.md)
