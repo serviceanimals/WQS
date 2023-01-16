@@ -1,3 +1,4 @@
+<link rel="prerender" href="https://serviceanimals.github.io/WQS/">
 # WQS
 Water Quality Specialist https://serviceanimals.github.io/WQS/
 
