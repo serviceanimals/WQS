@@ -18,3 +18,7 @@ Canines is also have a fully developed vomeronasal organ.-->
 More information: 
 
 [serviceanimals/](https://serviceanimals.github.io/)[Harper/](https://serviceanimals.github.io/Harper)[WQS](https://serviceanimals.github.io/Harper/WQS.md)
+
+Dog Naming Scheme
+
+Please use only two syllable names. Do not use human names.
